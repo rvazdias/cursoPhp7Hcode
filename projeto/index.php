@@ -1,5 +1,6 @@
 <?php
 
-  echo "teste controle de versao";
+  echo "olá Hcode";
+  echo "olá mundo!";
 
 ?>
